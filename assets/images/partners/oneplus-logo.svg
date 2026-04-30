@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 160" role="img" aria-label="OnePlus">
+  <rect width="360" height="160" fill="none"/>
+  <g transform="translate(56 44)" fill="none" stroke="#eb0028" stroke-width="8" stroke-linejoin="round">
+    <rect x="0" y="0" width="70" height="70" rx="4"/>
+    <path d="M84 0h24M96-12v24"/>
+    <path d="M24 24h14v32"/>
+    <path d="M18 56h40"/>
+  </g>
+  <text x="224" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#eb0028">OnePlus</text>
+</svg>
